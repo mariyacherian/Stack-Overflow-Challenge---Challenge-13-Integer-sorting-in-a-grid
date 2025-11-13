@@ -3,7 +3,7 @@ This is a solution to the https://stackoverflow.com/beta/challenges/79811869/cha
 
 **Table of contents**
 
-* Overview
+* [Overview]
 * The challenge
 * Links
 * My process
