@@ -3,7 +3,7 @@ This is a solution to the https://stackoverflow.com/beta/challenges/79811869/cha
 
 **Table of contents**
 
-* #Overview
+* Overview
 * The challenge
 * Links
 * My process
@@ -12,7 +12,7 @@ This is a solution to the https://stackoverflow.com/beta/challenges/79811869/cha
 * Useful resources
 * Author
 
-**#Overview**
+**Overview**
 
 In this challenge, we will sort some numbers onto a 6x6 square grid. Each cell will have one number.
 
