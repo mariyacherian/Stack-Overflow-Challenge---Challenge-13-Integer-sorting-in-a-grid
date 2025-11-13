@@ -3,14 +3,14 @@ This is a solution to the https://stackoverflow.com/beta/challenges/79811869/cha
 
 **Table of contents**
 
-. Overview
-. The challenge
-. Links
-. My process
-. Built with
-. What I learned
-. Useful resources
-. Author
+* Overview
+* The challenge
+* Links
+* My process
+* Built with
+* What I learned
+* Useful resources
+* Author
 
 **Overview**
 
