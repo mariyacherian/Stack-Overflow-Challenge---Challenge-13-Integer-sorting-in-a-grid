@@ -2,15 +2,17 @@
 This is a solution to the https://stackoverflow.com/beta/challenges/79811869/challenge-13-integer-sorting-in-a-grid
 
 **Table of contents**
-Overview
-The challenge
-Links
-My process
-Built with
-What I learned
-Useful resources
-Author
+
+.Overview
+.The challenge
+.Links
+.My process
+.Built with
+.What I learned
+.Useful resources
+.Author
 **Overview**
+
 In this challenge, we will sort some numbers onto a 6x6 square grid. Each cell will have one number.
 
 Your challenge is to place all the integers into the grid such that
@@ -30,7 +32,7 @@ In the attached file, we have 100 sets of 36 random integers. The integers are b
 Please also return the total count of cases for which the sorting was impossible.
 
 **Links**
-Solution URL: source code
+Solution URL: [https://github.com/mariyacherian/Stack-Overflow-Challenge---Challenge-13-Integer-sorting-in-a-grid/tree/main]
 
 **What I learned**
 
