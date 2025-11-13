@@ -3,14 +3,15 @@ This is a solution to the https://stackoverflow.com/beta/challenges/79811869/cha
 
 **Table of contents**
 
-.Overview
-.The challenge
-.Links
-.My process
-.Built with
-.What I learned
-.Useful resources
-.Author
+. Overview
+. The challenge
+. Links
+. My process
+. Built with
+. What I learned
+. Useful resources
+. Author
+
 **Overview**
 
 In this challenge, we will sort some numbers onto a 6x6 square grid. Each cell will have one number.
@@ -40,4 +41,5 @@ Solution URL: [https://github.com/mariyacherian/Stack-Overflow-Challenge---Chall
 https://www.baeldung.com/java-breaking-out-nested-loop
 
 **Author**
+
 Mariya Cherian
