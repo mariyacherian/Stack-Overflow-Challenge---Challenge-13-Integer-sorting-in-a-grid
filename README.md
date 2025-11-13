@@ -1,8 +1,7 @@
 # Stack-Overflow-Challenge---Challenge-13-Integer-sorting-in-a-grid
 This is a solution to the https://stackoverflow.com/beta/challenges/79811869/challenge-13-integer-sorting-in-a-grid
 
-**Table of contents
-**Stack Overflow Challenge -Challenge #13: Integer sorting in a grid
+**Table of contents**
 Overview
 The challenge
 Links
@@ -30,13 +29,13 @@ In the attached file, we have 100 sets of 36 random integers. The integers are b
 
 Please also return the total count of cases for which the sorting was impossible.
 
-**Links
-**Solution URL: source code
+**Links**
+Solution URL: source code
 
-**What I learned
-**
-**Useful resources
-**https://www.baeldung.com/java-breaking-out-nested-loop
+**What I learned**
+
+**Useful resources**
+https://www.baeldung.com/java-breaking-out-nested-loop
 
 **Author**
 Mariya Cherian
