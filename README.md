@@ -37,6 +37,9 @@ Solution URL: [https://github.com/mariyacherian/Stack-Overflow-Challenge---Chall
 
 **What I learned**
 
+* While doing this I want to iterate over 2 loops and in some scenario i want to exit from both of this loop i used break for that but it fails.Using break we can exit from the inner loop but outer loop continues. Then I got solution to this by Labeled Break.A labeled break will terminate the outer loop instead of just the inner loop
+
+* The dafault value of int array is 0 i have tried with this but when 0 comes in the input i have to handle this so i have set -1 in the matrix as default value.
 **Useful resources**
 https://www.baeldung.com/java-breaking-out-nested-loop
 
